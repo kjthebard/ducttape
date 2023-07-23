@@ -1,0 +1,1 @@
+CALL postgres_attach('dbname=postgres user=postgres host=localhost', source_schema='public', sink_schema='pk_generation_1');
